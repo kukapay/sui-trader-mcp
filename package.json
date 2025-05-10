@@ -1,0 +1,20 @@
+{
+  "name": "sui-trader-mcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/kukapay/sui-trader-mcp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "An MCP server designed for AI agents to perform optimal token swaps on the Sui blockchain.",
+  "dependencies": {
+    "@cetusprotocol/aggregator-sdk": "^0.9.0",
+    "@modelcontextprotocol/sdk": "^1.11.1",
+    "bn.js": "^5.2.2",
+    "dotenv": "^16.5.0",
+    "zod": "^3.24.4"
+  }
+}
