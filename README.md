@@ -6,6 +6,8 @@ An MCP server designed for AI agents to perform optimal token swaps on the Sui b
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/kukapay/sui-trader-mcp)](https://archestra.ai/mcp-catalog/kukapay__sui-trader-mcp)
+
 ## Features
 
 - **Token Swaps**: Execute token swaps on Sui mainnet via the Cetus Aggregator.
