@@ -11,6 +11,10 @@ An MCP server designed for AI agents to perform optimal token swaps on the Sui b
 - **Token Swaps**: Execute token swaps on Sui mainnet via the Cetus Aggregator.
 - **Bech32 Private Key Support**: Securely load a Sui private key (starting with `suiprivkey`) from environment variables.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-sui-trader-mcp).
+
 ## Prerequisites
 
 - **Node.js**: Version 18.x or higher.
